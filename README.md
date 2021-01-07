@@ -13,3 +13,6 @@ In colab notebook avaiable in this repository VGG16 network is trained with some
 2. [VGG16 model is trained with dataset augmentation and with constant learning rate](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Constant_lr.ipynb)
 3. [VGG16 model is trained with dataset augmentation and with decaying learning rate](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Time-Based_Decay.ipynb)
 4. [VGG16 model is trained with dataset augmentation and with Adam Optimizer](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Adam_opt.ipynb)
+
+
+![alt text](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16.png)
