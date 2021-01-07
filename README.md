@@ -7,3 +7,9 @@ This repository contains four google colab notebook files which is a part of Ass
 4. For model that is trained on Adam Optimizer with data augmetation click [here](https://drive.google.com/file/d/1jUZnXDfAe9gvbbnujXbLNnPg35EjCMqL/view?usp=sharing)
 
 To use above weights, import VGG16 model in jupiter notebook and load those model using keras.model.load_weights(file.h5). 
+
+In colab notebook avaiable in this repository VGG16 network is trained with some parameters which are different from each other. 
+1. [VGG16 model is trained without dataset augmentation and with constant learning rate](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/No%20Augmentation%20VGG16_with_Constant_lr.ipynb)
+2. [VGG16 model is trained with dataset augmentation and with constant learning rate](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Constant_lr.ipynb)
+3. [VGG16 model is trained with dataset augmentation and with decaying learning rate](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Time-Based_Decay.ipynb)
+4. [VGG16 model is trained with dataset augmentation and with Adam Optimizer](https://github.com/AsadRehman-319836/CS867-Assignment-3/blob/main/VGG16_with_Adam_opt.ipynb)
